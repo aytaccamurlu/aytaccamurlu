@@ -31,14 +31,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
----
-
-### 📈 GitHub İstatistiklerim
-
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=aytaccamurlu&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aytaccamurlu&layout=compact&theme=radical" />
-</p>
 
 ---
 
