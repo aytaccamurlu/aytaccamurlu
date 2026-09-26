@@ -18,8 +18,7 @@
 #### Backend & Kurumsal
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 #### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -45,5 +44,5 @@
 
 ### 🌐 Projelerim & İletişim
 
-*   Portfolyo / Web Sitem: [cite: 4.4]
-*   ERP-B2B Projesi: [(https://erpb2b-ten.vercel.app/)[cite: 4.2]
+*   Portfolyo / Web Sitem: https://portfolyo-sooty.vercel.app
+*   ERP-B2B Projesi: https://erpb2b-ten.vercel.app
