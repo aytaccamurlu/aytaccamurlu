@@ -10,7 +10,7 @@
 
 *   📍 Eskişehir, Türkiye
 *   💻 Yazılım Geliştirme Mühendisi / Uzmanı olarak ERP entegrasyonları, web ve kurumsal uygulama geliştirme alanlarında çalışıyorum.
-*   🛠️ ASP.NET Core, C#, React.js, PHP/Laravel ve SQL teknolojileriyle uçtan uca (Full-Stack) çözümler üretiyorum.
+*   🛠️ ASP.NET Core, C#, React.js, Python ve SQL teknolojileriyle uçtan uca (Full-Stack) çözümler üretiyorum.
 *   🤝 Kurumsal mimariler, B2B/ERP sistemleri ve web servis entegrasyonları konularında projeler geliştiriyor, açık kaynaklı paylaşımlara açığım.
 
 ### 🛠 Yetkinliklerim (Tech Stack)
