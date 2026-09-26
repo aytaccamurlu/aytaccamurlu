@@ -45,5 +45,5 @@
 
 ### 🌐 Projelerim & İletişim
 
-*   Portfolyo / Web Sitem: [aytacportfolyowebsite.netlify.app](https://aytacportfolyowebsite.netlify.app)[cite: 4.4]
-*   ERP-B2B Projesi: [erp-b2b.netlify.app](https://erp-b2b.netlify.app/)[cite: 4.2]
+*   Portfolyo / Web Sitem: [cite: 4.4]
+*   ERP-B2B Projesi: [(https://erpb2b-ten.vercel.app/)[cite: 4.2]
