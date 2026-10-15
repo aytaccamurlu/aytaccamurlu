@@ -37,4 +37,5 @@
 ### 🌐 Projelerim & İletişim
 
 *   Portfolyo / Web Sitem: https://portfolyo-sooty.vercel.app
+*   E-Ticaret Sitesi : https://e-ticaret-frontend-22sx.onrender.com
 *   ERP-B2B Projesi: https://erpb2b-ten.vercel.app
